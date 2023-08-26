@@ -1,34 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Promptopia - Share and Explore AI Prompts
 
-## Getting Started
+![Preview](https://promptopia-jade-delta.vercel.app)
 
-First, run the development server:
+Welcome to Promptopia, the ultimate platform for sharing and discovering AI prompts! Whether you're an AI enthusiast, a creative writer, or just looking for some inspiration, Promptopia is the place to be. Share your imaginative prompts, explore others' ideas, and fuel your creativity.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Introduction
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Promptopia is a web application designed to bring AI prompt enthusiasts together. With the ability to create, edit, and delete prompts, as well as explore a wide range of tags, Promptopia aims to inspire and spark the creative process. The platform utilizes Next.js for a seamless user experience, MongoDB for robust data storage, and NextAuth for secure authentication.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **User Authentication:** Securely sign up and log in using NextAuth, ensuring your prompts are safe and your interactions are personalized.
+- **Create and Edit Prompts:** Craft your own AI prompts using a user-friendly interface. Edit them later if you want to refine your ideas.
+- **Tagging System:** Categorize your prompts with relevant hashtags (#tag) to help others discover them easily.
+- **Explore Prompts:** Dive into a diverse collection of AI prompts submitted by the Promptopia community.
+- **Copy Prompts:** Like a prompt? Simply copy it to your profile to refer to it later.
+- **Profile Management:** Easily manage your shared prompts from your user profile. Edit or delete them whenever you like.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next.js 13
+- React
+- Tailwind CSS (Styling)
+- MongoDB (Database)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Installation
 
-## Deploy on Vercel
+1. Clone the repository:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   ```bash
+   git clone https://github.com/akibbhuiyan/promptopia.git

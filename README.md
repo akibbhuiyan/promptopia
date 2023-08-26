@@ -1,6 +1,6 @@
 # Promptopia - Share and Explore AI Prompts
 
-![Preview](https://promptopia-jade-delta.vercel.app)
+![Preview](https://promptopia-jade-delta.vercel.app).
 
 Welcome to Promptopia, the ultimate platform for sharing and discovering AI prompts! Whether you're an AI enthusiast, a creative writer, or just looking for some inspiration, Promptopia is the place to be. Share your imaginative prompts, explore others' ideas, and fuel your creativity.
 
